@@ -1,0 +1,66 @@
+﻿h1{
+    color:red;
+}
+#dvTopLeft {
+    width: 10%;
+    height: 100px;
+    background-color: lightgreen;
+    float: left;
+    border-radius:100%;
+    box-shadow: red 10px 10px;
+}
+#dvTop {
+    width: 80%;
+    height: 100px;
+    background-color: Highlight;
+    float: left;
+    border-radius: 10px 100px 10px 100px;
+}
+#dvTopRight {
+    width: 10%;
+    height: 100px;
+    background-color: lightgreen;
+    float: left;
+    border-radius: 100%;
+    box-shadow: red -10px 10px;
+}
+
+#dvHeader {
+    width: 100%;
+    height: 50px;
+    background-color: lightgreen;
+    float: left;
+}
+#dvLeft {
+    width: 30%;
+    height: 500px;
+    background-color: Highlight;
+    float: left;
+    border-radius: 200px 0px 200px 0px;
+    box-shadow: red 10px 10px;
+}
+#dvRight {
+    width: 70%;
+    height: 500px;
+    background-color: lightgreen;
+    float: left;
+    border-radius: 100px 100%;
+    box-shadow: red 100px 10px;
+}
+#dvBottom {
+    width: 100%;
+    height: 60px;
+    background-color: lightgreen;
+    float: left;
+}
+
+.content {
+    text-align:right;
+    background-color:red;
+    color:white;
+}
+
+input{
+    background-color:red;
+    color:yellow;
+}
